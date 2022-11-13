@@ -35,9 +35,15 @@ body{
     color: white;
     
 }
+h3{
+    display: flex;
+    justify-content: center;
+}
 .renseignement{
     list-style-type: none;
+
 }
+
 
 
 
